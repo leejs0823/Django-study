@@ -1,2 +1,0 @@
-# Django-study
-Django-study
